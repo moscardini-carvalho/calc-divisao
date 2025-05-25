@@ -1,8 +1,6 @@
 {
-  "dependencies": {
-    "name": "calc-divisao",
+"name": "calc-divisao",
   "version": "1.0.0",
   "main": "index.js"
-  }
 }
 
